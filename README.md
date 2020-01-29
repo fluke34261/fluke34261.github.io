@@ -5,3 +5,8 @@
 ## TheMegaNear Is Coming...
 * [My New Blog](https://medium.com/@chaloemphonthipkasorn)
 * [My Old Blog](http://themeganear.blogspot.com)
+
+---
+
+## เมื่อฉันอยากสร้าง AI
+[Week 1](https://github.com/fluke34261/ai-learning/blob/master/week1-ai-for-everyone.md)
