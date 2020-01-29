@@ -9,4 +9,4 @@
 ---
 
 ## เมื่อฉันอยากสร้าง AI
-[Week 1](https://github.com/fluke34261/ai-learning/blob/master/week1-ai-for-everyone.md)
+[Week 1 - Coursera AI for everyone - Introduction](https://github.com/fluke34261/ai-learning/blob/master/week1-ai-for-everyone.md)
