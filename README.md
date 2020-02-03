@@ -8,7 +8,9 @@
 
 ---
 
-## เมื่อฉันอยากสร้าง AI
+## AI for everyone
 [Week 1 - Coursera AI for everyone - Introduction](https://github.com/fluke34261/learning-ai-for-every-one/blob/master/week1-ai-for-everyone.md)
 
 [Week 2 - Coursera AI for everyone - Build AI Projects](https://github.com/fluke34261/learning-ai-for-every-one/blob/master/week1-ai-for-everyone.md)
+
+[Week 3 - Coursera AI for everyone - Build AI in your company](https://github.com/fluke34261/learning-ai-for-every-one/blob/master/week3-ai-for-everyone.md)
