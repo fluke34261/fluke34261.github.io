@@ -10,6 +10,6 @@
 
 My Repository
 
-- [AI for everyone]()
+- [AI for everyone](https://github.com/fluke34261/machine-learning-lecture/tree/master/ai-for-every-one)
 - [Kubernates](https://github.com/fluke34261/kubernetes)
 - [Laravel Installation script](https://github.com/fluke34261/laravel-install-step)
