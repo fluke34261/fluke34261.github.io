@@ -11,4 +11,5 @@
 My Repository
 
 - [AI for everyone]()
-- [Kubernates]()
+- [Kubernates](https://github.com/fluke34261/kubernetes)
+- [Laravel Installation script](https://github.com/fluke34261/laravel-install-step)
